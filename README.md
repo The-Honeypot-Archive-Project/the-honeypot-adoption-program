@@ -10,10 +10,10 @@ The honeypots below have been adopted, are working and have a usable package or 
 
 | Honeypot   | Adopter    | Docker Image | Last commit | DockerHub pulls |
 | ---------- | :------------: |:------------: | ----------- | --------------- |
-| Delilah    | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/delilah) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/delilah?color=green) |
-| Honeyprint | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/honeyprint) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/honeyprint?color=green) |
-| NoSQLpot   | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/nosqlpot) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/nosqlpot?color=green)|
-| wordpot    | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/wordpot) |  ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/wordpot?color=green)|
+| Delilah    | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/delilah) | ![Docker Pulls](https://img.shields.io/docker/pulls/thehoneypotarchiveproject/delilah?color=green) |
+| Honeyprint | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/honeyprint) | ![Docker Pulls](https://img.shields.io/docker/pulls/thehoneypotarchiveproject/honeyprint?color=green) |
+| NoSQLpot   | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/nosqlpot) | ![Docker Pulls](https://img.shields.io/docker/pulls/thehoneypotarchiveproject/nosqlpot?color=green)|
+| wordpot    | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/wordpot) |  ![Docker Pulls](https://img.shields.io/docker/pulls/thehoneypotarchiveproject/wordpot?color=green)|
 
 ## How to Contribute?
 
