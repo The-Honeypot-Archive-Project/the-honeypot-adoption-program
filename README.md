@@ -8,8 +8,8 @@ In an aim to preserve them, we have started adopting some honeypots. What does t
 
 The honeypots below have been adopted, are working and have a usable package or Docker image that can be used to run the honeypot without dependencies issues.
 
-| Honeypot   | Adopter.     | Docker Image | Last commit | DockerHub pulls |
-| ---------- | ------------ | ------------ | ----------- | --------------- |
+| Honeypot   | Adopter    | Docker Image | Last commit | DockerHub pulls |
+| ---------- | :------------: |:------------: | ----------- | --------------- |
 | Delilah    | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/delilah) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/delilah?color=green) |
 | Honeyprint | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/honeyprint) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/honeyprint?color=green) |
 | NoSQLpot   | @verovaleros | Yes          | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/The-Honeypot-Archive-Project/nosqlpot) | ![Docker Pulls](https://img.shields.io/docker/pulls/verovaleros/nosqlpot?color=green)|
